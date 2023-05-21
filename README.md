@@ -4,7 +4,6 @@ The annotate_images.ipynb notebook writes text onto uploaded images.
 
 # Inputs
 
-
 *   ```TEXT```: Text to write onto the bottom of the images.
 *   ```BUFFER_PERCENTAGE```: Percentage of image size used for image border where text won't be written to.
 *   ```TEXT_HEIGHT_PERCENT```: Percentage of image size that the text will cover.
